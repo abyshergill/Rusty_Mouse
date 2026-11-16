@@ -1,0 +1,198 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1900' height='1000' viewBox='0 0 1900 1000'>
+<rect width='1900' height='1000' fill='white'/>
+<rect x='15' y='15' width='1870' height='970' fill='none' stroke='#333' stroke-width='2'/>
+<rect x='620' y='160' width='420' height='600' fill='#fdf6c8' stroke='#8b1a1a' stroke-width='3'/>
+<text x='830.0' y='138' font-size='22' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace' font-weight='bold'>U1  Raspberry Pi Pico 2 W (RP2350)</text>
+<text x='830.0' y='430.0' font-size='16' fill='#555' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>USB cable to computer</text>
+<text x='830.0' y='452.0' font-size='16' fill='#555' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>(on-board micro-USB port)</text>
+<line x1='580' y1='230' x2='620' y2='230' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='630' y='237' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO10</text>
+<text x='598' y='222' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>14</text>
+<line x1='580' y1='230' x2='330' y2='230' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='250' cy='230' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<circle cx='330' cy='230' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='255' y1='230' x2='325' y2='216' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='290' y1='223' x2='290' y2='208' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='280' y1='208' x2='300' y2='208' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='290' y='200' font-size='18' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>SW1</text>
+<text x='345' y='220' font-size='20' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>Left Click</text>
+<line x1='150' y1='230' x2='245' y2='230' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='580' y1='320' x2='620' y2='320' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='630' y='327' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO11</text>
+<text x='598' y='312' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>15</text>
+<line x1='580' y1='320' x2='330' y2='320' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='250' cy='320' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<circle cx='330' cy='320' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='255' y1='320' x2='325' y2='306' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='290' y1='313' x2='290' y2='298' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='280' y1='298' x2='300' y2='298' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='290' y='290' font-size='18' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>SW2</text>
+<text x='345' y='310' font-size='20' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>Right Click</text>
+<line x1='150' y1='320' x2='245' y2='320' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='150' cy='320' r='5' fill='#1a3a8a'/>
+<line x1='580' y1='410' x2='620' y2='410' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='630' y='417' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO12</text>
+<text x='598' y='402' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>16</text>
+<line x1='580' y1='410' x2='330' y2='410' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='250' cy='410' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<circle cx='330' cy='410' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='255' y1='410' x2='325' y2='396' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='290' y1='403' x2='290' y2='388' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='280' y1='388' x2='300' y2='388' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='290' y='380' font-size='18' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>SW3</text>
+<text x='345' y='400' font-size='20' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>Middle Click</text>
+<line x1='150' y1='410' x2='245' y2='410' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='150' cy='410' r='5' fill='#1a3a8a'/>
+<line x1='580' y1='500' x2='620' y2='500' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='630' y='507' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO13</text>
+<text x='598' y='492' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>17</text>
+<line x1='580' y1='500' x2='330' y2='500' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='250' cy='500' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<circle cx='330' cy='500' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='255' y1='500' x2='325' y2='486' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='290' y1='493' x2='290' y2='478' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='280' y1='478' x2='300' y2='478' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='290' y='470' font-size='18' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>SW4</text>
+<text x='345' y='490' font-size='20' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>Scroll Up</text>
+<line x1='150' y1='500' x2='245' y2='500' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='150' cy='500' r='5' fill='#1a3a8a'/>
+<line x1='580' y1='590' x2='620' y2='590' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='630' y='597' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO14</text>
+<text x='598' y='582' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>19</text>
+<line x1='580' y1='590' x2='330' y2='590' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='250' cy='590' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<circle cx='330' cy='590' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='255' y1='590' x2='325' y2='576' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='290' y1='583' x2='290' y2='568' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='280' y1='568' x2='300' y2='568' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='290' y='560' font-size='18' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>SW5</text>
+<text x='345' y='580' font-size='20' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>Scroll Down</text>
+<line x1='150' y1='590' x2='245' y2='590' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='150' cy='590' r='5' fill='#1a3a8a'/>
+<line x1='580' y1='680' x2='620' y2='680' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='630' y='687' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO15</text>
+<text x='598' y='672' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>20</text>
+<line x1='580' y1='680' x2='330' y2='680' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='250' cy='680' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<circle cx='330' cy='680' r='5' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='255' y1='680' x2='325' y2='666' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='290' y1='673' x2='290' y2='658' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='280' y1='658' x2='300' y2='658' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='290' y='650' font-size='18' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>SW6</text>
+<text x='345' y='670' font-size='20' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>DPI Cycle</text>
+<line x1='150' y1='680' x2='245' y2='680' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='150' cy='680' r='5' fill='#1a3a8a'/>
+<line x1='150' y1='230' x2='150' y2='720' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='150' y1='720' x2='150' y2='738' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='130' y1='738' x2='170' y2='738' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='138' y1='746' x2='162' y2='746' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='145' y1='754' x2='155' y2='754' stroke='#1a3a8a' stroke-width='2.5'/>
+<text x='150' y='774' font-size='16' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>GND</text>
+<text x='50' y='90' font-size='16' fill='#555' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>Buttons: one leg to GPIO, other leg to GND.</text>
+<text x='50' y='114' font-size='16' fill='#555' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>No resistors needed (pull-ups are inside the chip).</text>
+<line x1='1040' y1='210' x2='1080' y2='210' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1030' y='217' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>3V3 OUT</text>
+<text x='1062' y='202' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>36</text>
+<line x1='1040' y1='280' x2='1080' y2='280' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1030' y='287' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO16</text>
+<text x='1062' y='272' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>21</text>
+<line x1='1040' y1='350' x2='1080' y2='350' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1030' y='357' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO17</text>
+<text x='1062' y='342' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>22</text>
+<line x1='1040' y1='420' x2='1080' y2='420' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1030' y='427' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO18</text>
+<text x='1062' y='412' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>24</text>
+<line x1='1040' y1='490' x2='1080' y2='490' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1030' y='497' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO19</text>
+<text x='1062' y='482' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>25</text>
+<line x1='1040' y1='560' x2='1080' y2='560' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1030' y='567' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO20</text>
+<text x='1062' y='552' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>26</text>
+<line x1='1040' y1='630' x2='1080' y2='630' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1030' y='637' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>GPIO22</text>
+<text x='1062' y='622' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>29</text>
+<line x1='1040' y1='700' x2='1080' y2='700' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1030' y='707' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>GND</text>
+<text x='1062' y='692' font-size='16' fill='#222' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>38</text>
+<rect x='1330' y='260' width='230' height='300' fill='#fdf6c8' stroke='#8b1a1a' stroke-width='3'/>
+<text x='1445.0' y='590' font-size='22' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace' font-weight='bold'>U2  PMW3360 breakout</text>
+<text x='1445.0' y='614' font-size='16' fill='#555' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>SPI optical sensor, 3.3V logic</text>
+<line x1='1290' y1='310' x2='1330' y2='310' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1340' y='317' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>MISO</text>
+<line x1='1290' y1='360' x2='1330' y2='360' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1340' y='367' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>CS (NCS)</text>
+<line x1='1290' y1='410' x2='1330' y2='410' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1340' y='417' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>SCK</text>
+<line x1='1290' y1='460' x2='1330' y2='460' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1340' y='467' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>MOSI</text>
+<line x1='1290' y1='510' x2='1330' y2='510' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1340' y='517' font-size='20' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>MOTION</text>
+<line x1='1560' y1='320' x2='1600' y2='320' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1550' y='327' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>VCC</text>
+<line x1='1560' y1='500' x2='1600' y2='500' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1550' y='507' font-size='20' fill='#1f6f6f' text-anchor='end' font-family='Menlo, DejaVu Sans Mono, monospace'>GND</text>
+<polyline points='1080,280 1120,280 1120,310 1290,310' fill='none' stroke='#1a3a8a' stroke-width='2.5'/>
+<polyline points='1080,350 1150,350 1150,360 1290,360' fill='none' stroke='#1a3a8a' stroke-width='2.5'/>
+<polyline points='1080,420 1180,420 1180,410 1290,410' fill='none' stroke='#1a3a8a' stroke-width='2.5'/>
+<polyline points='1080,490 1210,490 1210,460 1290,460' fill='none' stroke='#1a3a8a' stroke-width='2.5'/>
+<polyline points='1080,560 1240,560 1240,510 1290,510' fill='none' stroke='#1a3a8a' stroke-width='2.5'/>
+<polyline points='1080,210 1750,210 1750,320 1600,320' fill='none' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='1660' cy='320' r='5' fill='#1a3a8a'/>
+<circle cx='1750' cy='320' r='5' fill='#1a3a8a'/>
+<line x1='1660' y1='320' x2='1660' y2='342' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1642' y1='342' x2='1678' y2='342' stroke='#8b1a1a' stroke-width='4'/>
+<line x1='1642' y1='358' x2='1678' y2='358' stroke='#8b1a1a' stroke-width='4'/>
+<line x1='1660' y1='358' x2='1660' y2='380' stroke='#1a3a8a' stroke-width='2.5'/>
+<text x='1684' y='342' font-size='18' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>C1</text>
+<text x='1684' y='364' font-size='18' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>100nF</text>
+<line x1='1750' y1='320' x2='1750' y2='342' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1732' y1='342' x2='1768' y2='342' stroke='#8b1a1a' stroke-width='4'/>
+<line x1='1732' y1='358' x2='1768' y2='358' stroke='#8b1a1a' stroke-width='4'/>
+<line x1='1750' y1='358' x2='1750' y2='380' stroke='#1a3a8a' stroke-width='2.5'/>
+<text x='1774' y='342' font-size='18' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>C2</text>
+<text x='1774' y='364' font-size='18' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>10uF</text>
+<line x1='1660' y1='380' x2='1660' y2='500' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1750' y1='380' x2='1750' y2='500' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1600' y1='500' x2='1750' y2='500' stroke='#1a3a8a' stroke-width='2.5'/>
+<circle cx='1660' cy='500' r='5' fill='#1a3a8a'/>
+<line x1='1750' y1='500' x2='1750' y2='518' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1730' y1='518' x2='1770' y2='518' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1738' y1='526' x2='1762' y2='526' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1745' y1='534' x2='1755' y2='534' stroke='#1a3a8a' stroke-width='2.5'/>
+<text x='1750' y='554' font-size='16' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>GND</text>
+<text x='1600' y='575' font-size='14' fill='#555' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>caps close to sensor</text>
+<polyline points='1080,700 1100,700 1100,750' fill='none' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1100' y1='750' x2='1100' y2='768' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1080' y1='768' x2='1120' y2='768' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1088' y1='776' x2='1112' y2='776' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1095' y1='784' x2='1105' y2='784' stroke='#1a3a8a' stroke-width='2.5'/>
+<text x='1100' y='804' font-size='16' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>GND</text>
+<polyline points='1080,630 1280,630 1280,790 1340,790' fill='none' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1340' y1='790' x2='1352' y2='790' stroke='#1a3a8a' stroke-width='2.5'/>
+<polygon points='1352,774 1352,806 1378,790' fill='#2a9d2a' stroke='#8b1a1a' stroke-width='2.5'/>
+<line x1='1378' y1='774' x2='1378' y2='806' stroke='#8b1a1a' stroke-width='3'/>
+<line x1='1378' y1='790' x2='1390' y2='790' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1366' y1='766' x2='1380' y2='752' stroke='#8b1a1a' stroke-width='2'/>
+<line x1='1366' y1='778' x2='1380' y2='764' stroke='#8b1a1a' stroke-width='2'/>
+<text x='1345' y='834' font-size='18' fill='#1f6f6f' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>D1 status LED</text>
+<line x1='1390' y1='790' x2='1420' y2='790' stroke='#1a3a8a' stroke-width='2.5'/>
+<rect x='1420' y='780' width='70' height='20' fill='white' stroke='#8b1a1a' stroke-width='2.5'/>
+<text x='1455' y='772' font-size='18' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>R1 330R</text>
+<line x1='1490' y1='790' x2='1530' y2='790' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1530' y1='790' x2='1530' y2='808' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1510' y1='808' x2='1550' y2='808' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1518' y1='816' x2='1542' y2='816' stroke='#1a3a8a' stroke-width='2.5'/>
+<line x1='1525' y1='824' x2='1535' y2='824' stroke='#1a3a8a' stroke-width='2.5'/>
+<text x='1530' y='844' font-size='16' fill='#1f6f6f' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace'>GND</text>
+<text x='1080' y='862' font-size='15' fill='#555' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>(optional) blinks 1/2/3x on DPI change</text>
+<rect x='1420' y='850' width='450' height='120' fill='white' stroke='#333' stroke-width='3'/>
+<text x='1645' y='888' font-size='26' fill='#111' text-anchor='middle' font-family='Menlo, DejaVu Sans Mono, monospace' font-weight='bold'>PICO 2 W PRO MOUSE</text>
+<text x='1435' y='920' font-size='17' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>Revision 2.0   Date 2026-11-16</text>
+<text x='1435' y='945' font-size='15' fill='#555' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>Matches firmware src/main.rs + src/pmw3360.rs</text>
+<text x='40' y='835' font-size='20' fill='#111' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace' font-weight='bold'>Notes</text>
+<text x='40' y='863' font-size='16' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>1. Pin numbers next to the box are the physical Pico pin numbers.</text>
+<text x='40' y='887' font-size='16' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>2. Switch: one leg to GPIO, other leg to GND. Pull-ups are inside the chip.</text>
+<text x='40' y='911' font-size='16' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>3. Sensor VCC must come from 3V3 OUT (pin 36), never from VBUS (5V).</text>
+<text x='40' y='935' font-size='16' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>4. Pico 2 W on-board LED is NOT on GPIO 25, so the status LED uses GPIO 22.</text>
+<text x='40' y='959' font-size='16' fill='#222' text-anchor='start' font-family='Menlo, DejaVu Sans Mono, monospace'>5. SPI mode 3, 2 MHz. CS idles high. MOTION is active-low (pull-up inside chip).</text>
+</svg>

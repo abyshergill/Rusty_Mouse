@@ -1,0 +1,37 @@
+[package]
+name = "pico2-pro-mouse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+embassy-rp = { version = "0.4.0", features = [
+    "defmt",
+    "unstable-pac",
+    "time-driver",
+    "critical-section-impl",
+    "rp235xa",
+    "binary-info",
+] }
+embassy-usb = { version = "0.4.0", features = ["defmt"] }
+embassy-executor = { version = "0.7.0", features = [
+    "arch-cortex-m",
+    "executor-thread",
+    "defmt",
+] }
+embassy-time = { version = "0.4.0", features = ["defmt", "defmt-timestamp-uptime"] }
+embassy-sync = { version = "0.6.0", features = ["defmt"] }
+usbd-hid = "0.8.1"
+static_cell = "2.1.0"
+cortex-m = "0.7.7"
+cortex-m-rt = "0.7.3"
+defmt = "0.3"
+defmt-rtt = "0.4"
+panic-probe = { version = "0.3", features = ["print-defmt"] }
+
+[profile.release]
+codegen-units = 1
+debug = 2
+debug-assertions = false
+incremental = false
+lto = "fat"
+opt-level = "s"

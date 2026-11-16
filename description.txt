@@ -1,0 +1,4 @@
+Install target & tool: rustup target add thumbv8m.main-none-eabihf and install picotool (v2.0+ for RP2350).
+Hold BOOTSEL on the Pico 2 while plugging in USB so it mounts as RP2350
+.
+Run cargo run --release inside pico2-pro-mouse/ (or build a .uf2 via picotool uf2 convert target/thumbv8m.main-none-eabihf/release/pico2-pro-mouse -t elf firmware.uf2 --family rp2350-arm-s and drag-and-drop firmware.uf2 onto the RP2350 drive).
