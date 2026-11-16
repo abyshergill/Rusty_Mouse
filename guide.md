@@ -144,3 +144,52 @@ Hold `BOOTSEL`, plug in USB, and copy a MicroPython `.uf2` file for Pico 2 W ont
 
 - Use the Pico 2 W's Bluetooth to make the mouse wireless.
 - Add a lift-off check using the sensor's `SQUAL` value.
+
+---
+
+## Progress log (what we achieved, and how to repeat it)
+
+### 2026-11-16: Firmware with sensor driver installed
+
+**What we achieved**
+- Built the Rust mouse firmware for the Pico 2 W and flashed it. The Mac sees "Pico 2 Pro Mouse".
+- Added the PMW3360 sensor driver (`src/pmw3360.rs`) and DPI levels of 800, 1600 and 3200 CPI.
+- Drew a correct schematic (`schematic.png`).
+- Pushed the project to GitHub: https://github.com/abyshergill/Rusty_Mouse (marked "not complete yet").
+
+**How to repeat: update the firmware (every time you change the code)**
+1. Open Terminal and go to the folder:
+   ```bash
+   cd "/Users/aby/Desktop/Github/Rust Mouse"
+   ```
+2. Build:
+   ```bash
+   cargo build --release
+   ```
+3. Put the Pico in BOOTSEL mode. **Unplug** the USB cable, **hold** the white BOOTSEL button, **plug in** the cable while holding, wait 2 seconds, then let go. (Check that a drive named `RP2350` shows up, or that `picotool info` works.)
+4. Flash:
+   ```bash
+   picotool load -u -v -x -t elf target/thumbv8m.main-none-eabihf/release/pico2-pro-mouse
+   ```
+   You should see `OK`.
+5. **Let go of BOOTSEL.** If the button is still held, the board keeps showing as "RP2350 Boot". If it does, unplug and replug the cable once without touching the button.
+6. Check:
+   ```bash
+   ioreg -p IOUSB -l | grep "Pico 2 Pro"
+   ```
+
+**Lesson learned:** BOOTSEL only works if you hold the button *while plugging in*. Pressing it while the board is already plugged in does nothing. The software reboot trick (Way B) only worked once, when the Pico still ran MicroPython.
+
+**How to repeat: push to GitHub**
+```bash
+git add -A
+git commit -m "Describe your change"
+git push
+```
+(`target/`, `.DS_Store` and the old wrong schematic are ignored by `.gitignore`.)
+
+### Still to do
+- Wire the PMW3360 sensor as in `schematic.png` and test cursor movement.
+- Copy `PMW3360_srom_0x04.bin` into `srom/pmw3360_srom.bin` and rebuild.
+- Clean up the old parts of `README.md` (still mentions GPIO 25).
+- Optional: Bluetooth (wireless) mouse.
